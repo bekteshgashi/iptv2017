@@ -1,111 +1,674 @@
+#EXTINF:-1,A1 REPORT
+http://ott.digitalb.tv/ReportTV/ReportTV.isml/ReportTV-
 
-http://gameserver4.ddns.net/live/ToninoPizzi2P3/EuSImyd9NP/9733.ts
-#EXTINF:-1,XX Eroxxx
-http://gameserver4.ddns.net/live/ToninoPizzi2P3/EuSImyd9NP/9732.ts
-#EXTINF:-1,XX Exotica
-http://gameserver4.ddns.net/live/ToninoPizzi2P3/EuSImyd9NP/9731.ts
-#EXTINF:-1,XX Hustler TV
-http://gameserver4.ddns.net/live/ToninoPizzi2P3/EuSImyd9NP/9730.ts
-#EXTINF:-1,XX Jasmin TV
-http://gameserver4.ddns.net/live/ToninoPizzi2P3/EuSImyd9NP/9729.ts
-#EXTINF:-1,XX Meiden Van Holland
-http://gameserver4.ddns.net/live/ToninoPizzi2P3/EuSImyd9NP/9728.ts
-#EXTINF:-1,XX Nuart TV
-http://gameserver4.ddns.net/live/ToninoPizzi2P3/EuSImyd9NP/9727.ts
-#EXTINF:-1,XX Nubiles Casting
-http://gameserver4.ddns.net/live/ToninoPizzi2P3/EuSImyd9NP/9726.ts
-#EXTINF:-1,XX PASSIE
-http://gameserver4.ddns.net/live/ToninoPizzi2P3/EuSImyd9NP/9725.ts
-#EXTINF:-1,XX Penthouse HD
-http://gameserver4.ddns.net/live/ToninoPizzi2P3/EuSImyd9NP/9724.ts
-#EXTINF:-1,XX Pink Erortic 2
-http://gameserver4.ddns.net/live/ToninoPizzi2P3/EuSImyd9NP/9723.ts
-#EXTINF:-1,XX Pink Erortic 3
-http://gameserver4.ddns.net/live/ToninoPizzi2P3/EuSImyd9NP/9722.ts
-#EXTINF:-1,XX Pink Erotic 1
-http://gameserver4.ddns.net/live/ToninoPizzi2P3/EuSImyd9NP/9721.ts
-#EXTINF:-1,XX Pink Erotic 4
-http://gameserver4.ddns.net/live/ToninoPizzi2P3/EuSImyd9NP/9720.ts
-#EXTINF:-1,XX Pink Erotic 5
-http://gameserver4.ddns.net/live/ToninoPizzi2P3/EuSImyd9NP/9719.ts
-#EXTINF:-1,XX PinkOTV
-http://gameserver4.ddns.net/live/ToninoPizzi2P3/EuSImyd9NP/9718.ts
-#EXTINF:-1,XX Play 19
-http://gameserver4.ddns.net/live/ToninoPizzi2P3/EuSImyd9NP/9717.ts
-#EXTINF:-1,XX Playboy TV
-http://gameserver4.ddns.net/live/ToninoPizzi2P3/EuSImyd9NP/9716.ts
-#EXTINF:-1,XX Redlight HD
-http://gameserver4.ddns.net/live/ToninoPizzi2P3/EuSImyd9NP/9715.ts
-#EXTINF:-1,XX RTL X
-http://gameserver4.ddns.net/live/ToninoPizzi2P3/EuSImyd9NP/9714.ts
-#EXTINF:-1,XX Russian Night
-http://gameserver4.ddns.net/live/ToninoPizzi2P3/EuSImyd9NP/9713.ts
-#EXTINF:-1,XX Satisfaction
-http://gameserver4.ddns.net/live/ToninoPizzi2P3/EuSImyd9NP/9712.ts
-#EXTINF:-1,XX Sesto Senso
-http://gameserver4.ddns.net/live/ToninoPizzi2P3/EuSImyd9NP/9711.ts
-#EXTINF:-1,XX The X
-http://gameserver4.ddns.net/live/ToninoPizzi2P3/EuSImyd9NP/9710.ts
-#EXTINF:-1,XX Venus
-http://gameserver4.ddns.net/live/ToninoPizzi2P3/EuSImyd9NP/9709.ts
-#EXTINF:-1,Xx Adulti 1
-http://gameserver4.ddns.net/live/ToninoPizzi2P3/EuSImyd9NP/9755.ts
-#EXTINF:-1,Xx Adulti 2
-http://gameserver4.ddns.net/live/ToninoPizzi2P3/EuSImyd9NP/9756.ts
-#EXTINF:-1,Xx Adulti 3
-http://gameserver4.ddns.net/live/ToninoPizzi2P3/EuSImyd9NP/9757.ts
-#EXTINF:-1,Xx Adulti 4
-http://gameserver4.ddns.net/live/ToninoPizzi2P3/EuSImyd9NP/9758.ts
-#EXTINF:-1,Xx Adulti 5
-http://gameserver4.ddns.net/live/ToninoPizzi2P3/EuSImyd9NP/9759.ts
-#EXTINF:-1,Xx Adulti 6
-http://gameserver4.ddns.net/live/ToninoPizzi2P3/EuSImyd9NP/9760.ts
-#EXTINF:-1,Xx Adulti 7
-http://gameserver4.ddns.net/live/ToninoPizzi2P3/EuSImyd9NP/9761.ts
-#EXTINF:-1,Xx Adulti 8
-http://gameserver4.ddns.net/live/ToninoPizzi2P3/EuSImyd9NP/9762.ts
-#EXTINF:-1,Xx Adulti 9
-http://gameserver4.ddns.net/live/ToninoPizzi2P3/EuSImyd9NP/9763.ts
-#EXTINF:-1,Xx Hot
+audio_track=64000-video=640000.m3u8
+#EXTINF:-1,ABC NEWS
+http://ott.digitalb.tv/ABC-News/ABC-News.isml/ABC-News-
 
+audio_track=64000-video=640000.m3u8
+#EXTINF:-1,BANG BANG
+http://ott.digitalb.tv/BangBang/BangBang.isml/BangBang-
 
+audio_track_0=64000-video=640000.m3u8
+#EXTINF:-1,BCTV
+http://ott.digitalb.tv/BCTV/BCTV.isml/BCTV-audio_track=64000-
 
+video=640000.m3u8
+#EXTINF:-1,CITY TV
+http://ott.digitalb.tv/CityTV/CityTV.isml/CityTV-
 
+audio_track=64000-video=640000.m3u8
+#EXTINF:-1,EUROSPORT
+http://ott.digitalb.tv/EuroSport/EuroSport.isml/EuroSport-
 
+audio_track=64000-video=640000.m3u8
+#EXTINF:-1,EXP HISTORI
+http://ott.digitalb.tv/ExpHistori/ExpHistori.isml/ExpHistori-
 
+audio_track_0=64000-video=640000.m3u8
+#EXTINF:-1,EXP NATYRA
+http://ott.digitalb.tv/ExpNatyra/ExpNatyra.isml/ExpNatyra-
 
- #EXTINF:-1,ALB-TRING WORLD
-http://iptvpolo.dvrdns.org:22921/live/paul/Vzduz5uzjh/497.ts
-#EXTINF:-1,ALB-TRING VISION PLUS
-http://iptvpolo.dvrdns.org:22921/live/paul/Vzduz5uzjh/498.ts
-#EXTINF:-1,ALB-TRING SUPER
-http://iptvpolo.dvrdns.org:22921/live/paul/Vzduz5uzjh/501.ts
-#EXTINF:-1,ALB-TRING STINET
-http://iptvpolo.dvrdns.org:22921/live/paul/Vzduz5uzjh/511.ts
-#EXTINF:-1,ALB-TRING SHQIP
-http://iptvpolo.dvrdns.org:22921/live/paul/Vzduz5uzjh/510.ts
-#EXTINF:-1,ALB-TRING MAX
-http://iptvpolo.dvrdns.org:22921/live/paul/Vzduz5uzjh/502.ts
-#EXTINF:-1,ALB-TRING LIFE
-http://iptvpolo.dvrdns.org:22921/live/paul/Vzduz5uzjh/503.ts
-#EXTINF:-1,ALB-TRING KLAN TV
-http://iptvpolo.dvrdns.org:22921/live/paul/Vzduz5uzjh/504.ts
-#EXTINF:-1,ALB-TRING JUNIOR
-http://iptvpolo.dvrdns.org:22921/live/paul/Vzduz5uzjh/505.ts
-#EXTINF:-1,ALB-TRING FANTASY
-http://iptvpolo.dvrdns.org:22921/live/paul/Vzduz5uzjh/506.ts
-#EXTINF:-1,ALB-TRING EXPLORER SCIENCE
-http://iptvpolo.dvrdns.org:22921/live/paul/Vzduz5uzjh/507.ts
-#EXTINF:-1,ALB-TRING EXPLORER NATURE
-http://iptvpolo.dvrdns.org:22921/live/paul/Vzduz5uzjh/508.ts
-#EXTINF:-1,ALB-TRING EXPLORER HISTORY
-http://iptvpolo.dvrdns.org:22921/live/paul/Vzduz5uzjh/509.ts
-#EXTINF:-1,ALB-FOX LIFE
-http://iptvpolo.dvrdns.org:22921/live/paul/Vzduz5uzjh/489.ts
-#EXTINF:-1,ALB-FILM THRILLER
-http://iptvpolo.dvrdns.org:22921/live/paul/Vzduz5uzjh/478.ts
-#EXTINF:-1,ALB-FILM NJE
-http://iptvpolo.dvrdns.org:22921/live/paul/Vzduz5uzjh/477.ts
-#EXTINF:-1,ALB-FILM HITS
-http://iptvpolo.dvrdns.org:22921/live/paul/Vzduz5uzjh/476.ts
-#EXTINF:-1,ALB-FILM DY
+audio_track_0=64000-video=640000.m3u8
+#EXTINF:-1,EXP SHKENCE
+http://ott.digitalb.tv/ExpShkence/ExpShkence.isml/ExpShkence-
+
+audio_track_0=64000-video=640000.m3u8
+#EXTINF:-1,FILM AKSION
+http://ott.digitalb.tv/Film-Aksion/Film-Aksion.isml/Film-Aksion-
+
+audio_track=64000-video=640000.m3u8
+#EXTINF:-1,FILM DY
+http://ott.digitalb.tv/FilmDyHD/FilmDyHD.isml/FilmDyHD-
+
+audio_track=64000-video=640000.m3u8
+#EXTINF:-1,FILM NJE
+http://ott.digitalb.tv/FilmNjeHD/FilmNjeHD.isml/FilmNjeHD-
+
+audio_track=64000-video=640000.m3u8
+#EXTINF:-1,IN TV
+http://ott.digitalb.tv/IN-TV/IN-TV.isml/IN-TV-audio_track=64000-
+
+video=640000.m3u8
+#EXTINF:-1,KLAN HD
+http://ott.digitalb.tv/KlanTV/KlanTV.isml/KlanTV-
+
+audio_track=64000-video=640000.m3u8
+#EXTINF:-1,KLAN KOSOVA
+http://ott.digitalb.tv/KlanKosova/KlanKosova.isml/KlanKosova-
+
+audio_track=64000-video=640000.m3u8
+#EXTINF:-1,MTV
+http://ott.digitalb.tv/MTV-Live/MTV-Live.isml/MTV-Live-
+
+audio_track=64000-video=640000.m3u8
+#EXTINF:-1,MY MUSIC
+http://ott.digitalb.tv/MyMusic/MyMusic.isml/MyMusic-
+
+audio_track=64000-video=640000.m3u8
+#EXTINF:-1,NEWS 24
+http://ott.digitalb.tv/News-24/News-24.isml/News-24-
+
+audio_track=64000-video=640000.m3u8
+#EXTINF:-1,ORA NEWS
+http://ott.digitalb.tv/OraNews/OraNews.isml/OraNews-
+
+audio_track=64000-video=640000.m3u8
+#EXTINF:-1,SUPERSONIC
+http://ott.digitalb.tv/SuperSonic/SuperSonic.isml/SuperSonic-
+
+audio_track=64000-video=640000.m3u8
+#EXTINF:-1,SUPERSPORT 1
+http://ott.digitalb.tv/SS1/SS1.isml/SS1-audio_track_0=64000-
+
+video=640000.m3u8
+#EXTINF:-1,SUPERSPORT 2
+http://ott.digitalb.tv/SS2/SS2.isml/SS2-audio_track_0=64000-
+
+video=640000.m3u8
+#EXTINF:-1,SUPERSPORT 3
+http://ott.digitalb.tv/SS3/SS3.isml/SS3-audio_track_0=64000-
+
+video=640000.m3u8
+#EXTINF:-1,SUPERSPORT 4
+http://ott.digitalb.tv/SS4/SS4.isml/SS4-audio_track_0=64000-
+
+video=640000.m3u8
+#EXTINF:-1,SUPERSPORT 5
+http://ott.digitalb.tv/SS5/SS5.isml/SS5-audio_track_0=64000-
+
+video=640000.m3u8
+#EXTINF:-1,SUPERSPORT 6
+http://ott.digitalb.tv/SS6/SS6.isml/SS6-audio_track_0=64000-
+
+video=640000.m3u8
+#EXTINF:-1,T HD
+http://ott.digitalb.tv/T-HD/T-
+
+HD.isml/T-HD-audio_track=64000-video=640000.m3u8
+#EXTINF:-1,TOP 
+
+CHANNEL
+http://ott.digitalb.tv/Tch/Tch.isml/Tch-audio_track=64000
+
+-video=640000.m3u8
+#EXTINF:-1,TOP NEWS
+http://ott.digitalb.tv/Top-
+
+News/Top-News.isml/Top-News-audio_track=64000-video=640000.m3u8
+#EXTINF:-1,TVSH
+http://ott.digitalb.tv/TVSH/TVSH.isml/TVSH-
+
+audio_track=64000-video=640000.m3u8
+
+#EXTM3U
+#EXTINF:-1,UK:Heart Tv
+http://newiptvworld.no-ip.org:8300/live/iptv/star/504.ts
+#EXTINF:-1,UK: ITV4
+http://newiptvworld.no-ip.org:8300/live/iptv/star/131.ts
+#EXTINF:-1,UK: ITV3
+http://newiptvworld.no-ip.org:8300/live/iptv/star/132.ts
+#EXTINF:-1,UK: ITV2
+http://newiptvworld.no-ip.org:8300/live/iptv/star/133.ts
+#EXTINF:-1,UK: ITV Encore
+http://newiptvworld.no-ip.org:8300/live/iptv/star/135.ts
+#EXTINF:-1,UK: ITV 1
+http://newiptvworld.no-ip.org:8300/live/iptv/star/134.ts
+#EXTINF:-1,UK: BBC Two
+http://newiptvworld.no-ip.org:8300/live/iptv/star/129.ts
+#EXTINF:-1,UK: BBC One
+http://newiptvworld.no-ip.org:8300/live/iptv/star/130.ts
+#EXTINF:-1,TR: HABERTURK
+http://newiptvworld.no-ip.org:8300/live/iptv/star/318.ts
+#EXTINF:-1,TR: Documantary Turk
+http://newiptvworld.no-ip.org:8300/live/iptv/star/492.ts
+#EXTINF:-1,SP: Movistar MotoGP
+http://newiptvworld.no-ip.org:8300/live/iptv/star/276.ts
+#EXTINF:-1,SP: MoviStar F1 HD
+http://newiptvworld.no-ip.org:8300/live/iptv/star/275.ts
+#EXTINF:-1,SP: Canal Torros
+http://newiptvworld.no-ip.org:8300/live/iptv/star/274.ts
+#EXTINF:-1,SP: C+ La Liga
+http://newiptvworld.no-ip.org:8300/live/iptv/star/272.ts
+#EXTINF:-1,SP: C+ Fútbol
+http://newiptvworld.no-ip.org:8300/live/iptv/star/271.ts
+#EXTINF:-1,SP: C+ Deportes
+http://newiptvworld.no-ip.org:8300/live/iptv/star/273.ts
+#EXTINF:-1,? SCT HQ
+http://newiptvworld.no-ip.org:8300/live/iptv/star/192.ts
+#EXTINF:-1,FR: M6 Music
+http://newiptvworld.no-ip.org:8300/live/iptv/star/500.ts
+#EXTINF:-1,IT: Radio 105
+http://newiptvworld.no-ip.org:8300/live/iptv/star/502.ts
+#EXTINF:-1,De: 3sat
+http://newiptvworld.no-ip.org:8300/live/iptv/star/246.ts
+#EXTINF:-1,UK: Vintage TV
+http://newiptvworld.no-ip.org:8300/live/iptv/star/503.ts
+#EXTINF:-1,De: Syfy HD
+http://newiptvworld.no-ip.org:8300/live/iptv/star/243.ts
+#EXTINF:-1,DE: SKY Sport News HD
+http://newiptvworld.no-ip.org:8300/live/iptv/star/222.ts
+#EXTINF:-1,DE: Sky Sport 2 HD
+http://newiptvworld.no-ip.org:8300/live/iptv/star/220.ts
+#EXTINF:-1,DE: SKY Sport 1 HD
+http://newiptvworld.no-ip.org:8300/live/iptv/star/221.ts
+#EXTINF:-1,DE: SKY Bundesliga 5 HD ( during match )
+http://newiptvworld.no-ip.org:8300/live/iptv/star/223.ts
+#EXTINF:-1,DE: Disney Cinemagic HD
+http://newiptvworld.no-ip.org:8300/live/iptv/star/205.ts
+#EXTINF:-1,DE: Disney Channel HD
+http://newiptvworld.no-ip.org:8300/live/iptv/star/206.ts
+#EXTINF:-1,DE: ZDF
+http://newiptvworld.no-ip.org:8300/live/iptv/star/251.ts
+#EXTINF:-1,? XXX 4
+http://newiptvworld.no-ip.org:8300/live/iptv/star/282.ts
+#EXTINF:-1,? XXX 3
+http://newiptvworld.no-ip.org:8300/live/iptv/star/283.ts
+#EXTINF:-1,? XXX 2
+http://newiptvworld.no-ip.org:8300/live/iptv/star/286.ts
+#EXTINF:-1,? XXX 1
+http://newiptvworld.no-ip.org:8300/live/iptv/star/287.ts
+#EXTINF:-1,FOX SPORT 1 NL
+http://newiptvworld.no-ip.org:8300/live/iptv/star/336.ts
+#EXTINF:-1,DE: VOX HD
+http://newiptvworld.no-ip.org:8300/live/iptv/star/256.ts
+#EXTINF:-1,TR: Fox HD
+http://newiptvworld.no-ip.org:8300/live/iptv/star/334.ts
+#EXTINF:-1,TR: A Spor HD
+http://newiptvworld.no-ip.org:8300/live/iptv/star/323.ts
+#EXTINF:-1,GR: Tv100
+http://newiptvworld.no-ip.org:8300/live/iptv/star/446.ts
+#EXTINF:-1,GR: TV Gold
+http://newiptvworld.no-ip.org:8300/live/iptv/star/451.ts
+#EXTINF:-1,TR: TRT World
+http://newiptvworld.no-ip.org:8300/live/iptv/star/326.ts
+#EXTINF:-1,TR: TRT MUZIK
+http://newiptvworld.no-ip.org:8300/live/iptv/star/331.ts
+#EXTINF:-1,TR: TRT DIYANET
+http://newiptvworld.no-ip.org:8300/live/iptv/star/328.ts
+#EXTINF:-1,TR: TRT AVAZ
+http://newiptvworld.no-ip.org:8300/live/iptv/star/327.ts
+#EXTINF:-1,TR: TRT COCUK
+http://newiptvworld.no-ip.org:8300/live/iptv/star/330.ts
+#EXTINF:-1,TR: TRT 1
+http://newiptvworld.no-ip.org:8300/live/iptv/star/329.ts
+#EXTINF:-1,DE: TNT Film HD
+http://newiptvworld.no-ip.org:8300/live/iptv/star/237.ts
+#EXTINF:-1,TR: TV 8
+http://newiptvworld.no-ip.org:8300/live/iptv/star/333.ts
+#EXTINF:-1,? PINK O TV
+http://newiptvworld.no-ip.org:8300/live/iptv/star/191.ts
+#EXTINF:-1,DE: Super RTL HD
+http://newiptvworld.no-ip.org:8300/live/iptv/star/261.ts
+#EXTINF:-1,GR: Start TV
+http://newiptvworld.no-ip.org:8300/live/iptv/star/448.ts
+#EXTINF:-1,TR: EuroStar TV
+http://newiptvworld.no-ip.org:8300/live/iptv/star/322.ts
+#EXTINF:-1,GR: Star
+http://newiptvworld.no-ip.org:8300/live/iptv/star/182.ts
+#EXTINF:-1,DE: Sport+1 HD
+http://newiptvworld.no-ip.org:8300/live/iptv/star/214.ts
+#EXTINF:-1,DE: SKY Bundesliga 3 HD ( during match )
+http://newiptvworld.no-ip.org:8300/live/iptv/star/215.ts
+#EXTINF:-1,De: Spiegel Geschichte
+http://newiptvworld.no-ip.org:8300/live/iptv/star/247.ts
+#EXTINF:-1,DE: SKY Bundesliga 4 HD ( during match )
+http://newiptvworld.no-ip.org:8300/live/iptv/star/213.ts
+#EXTINF:-1,DE: Sky Select HD3
+http://newiptvworld.no-ip.org:8300/live/iptv/star/224.ts
+#EXTINF:-1,DE: Sky Select HD2
+http://newiptvworld.no-ip.org:8300/live/iptv/star/225.ts
+#EXTINF:-1,DE: SKY Select HD1
+http://newiptvworld.no-ip.org:8300/live/iptv/star/226.ts
+#EXTINF:-1,DE: Sky Nostalgie
+http://newiptvworld.no-ip.org:8300/live/iptv/star/235.ts
+#EXTINF:-1,DE: Sky Krimi
+http://newiptvworld.no-ip.org:8300/live/iptv/star/234.ts
+#EXTINF:-1,DE: Sky Hits HD
+http://newiptvworld.no-ip.org:8300/live/iptv/star/229.ts
+#EXTINF:-1,DE: SKY Emotion HD
+http://newiptvworld.no-ip.org:8300/live/iptv/star/233.ts
+#EXTINF:-1,DE: History
+http://newiptvworld.no-ip.org:8300/live/iptv/star/232.ts
+#EXTINF:-1,DE: Sky Cinema HD
+http://newiptvworld.no-ip.org:8300/live/iptv/star/227.ts
+#EXTINF:-1,DE: Sky Cinema  24 HD
+http://newiptvworld.no-ip.org:8300/live/iptv/star/228.ts
+#EXTINF:-1,DE: SKY Bundesliga HD 2 ( during match )
+http://newiptvworld.no-ip.org:8300/live/iptv/star/217.ts
+#EXTINF:-1,DE: SKY Bundesliga 1 HD ( during match )
+http://newiptvworld.no-ip.org:8300/live/iptv/star/218.ts
+#EXTINF:-1,DE: Sky Atlantic HD
+http://newiptvworld.no-ip.org:8300/live/iptv/star/231.ts
+#EXTINF:-1,DE: Sky Action HD
+http://newiptvworld.no-ip.org:8300/live/iptv/star/230.ts
+#EXTINF:-1,GR: Skai
+http://newiptvworld.no-ip.org:8300/live/iptv/star/181.ts
+#EXTINF:-1,De: Sixx HD
+http://newiptvworld.no-ip.org:8300/live/iptv/star/249.ts
+#EXTINF:-1,Cy: Sigma
+http://newiptvworld.no-ip.org:8300/live/iptv/star/453.ts
+#EXTINF:-1,TR: Show TV
+http://newiptvworld.no-ip.org:8300/live/iptv/star/321.ts
+#EXTINF:-1,Uk: MTV Dance
+http://newiptvworld.no-ip.org:8300/live/iptv/star/193.ts
+#EXTINF:-1,DE: SAT 1
+http://newiptvworld.no-ip.org:8300/live/iptv/star/252.ts
+#EXTINF:-1,TR: Star TV
+http://newiptvworld.no-ip.org:8300/live/iptv/star/320.ts
+#EXTINF:-1,? Maden Holland
+http://newiptvworld.no-ip.org:8300/live/iptv/star/292.ts
+#EXTINF:-1,DE: RTL Passion HD
+http://newiptvworld.no-ip.org:8300/live/iptv/star/258.ts
+#EXTINF:-1,DE: RTL NITRO
+http://newiptvworld.no-ip.org:8300/live/iptv/star/257.ts
+#EXTINF:-1,DE: RTL Living HD
+http://newiptvworld.no-ip.org:8300/live/iptv/star/259.ts
+#EXTINF:-1,DE: RTL II HD
+http://newiptvworld.no-ip.org:8300/live/iptv/star/262.ts
+#EXTINF:-1,DE: RTL Crime HD
+http://newiptvworld.no-ip.org:8300/live/iptv/star/260.ts
+#EXTINF:-1,De: Romance TV HD
+http://newiptvworld.no-ip.org:8300/live/iptv/star/245.ts
+#EXTINF:-1,? Redlight HD
+http://newiptvworld.no-ip.org:8300/live/iptv/star/197.ts
+#EXTINF:-1,DE: Prosieben HD
+http://newiptvworld.no-ip.org:8300/live/iptv/star/254.ts
+#EXTINF:-1,DE: Pro Sieben Maxx HD
+http://newiptvworld.no-ip.org:8300/live/iptv/star/253.ts
+#EXTINF:-1,? Private
+http://newiptvworld.no-ip.org:8300/live/iptv/star/302.ts
+#EXTINF:-1,? Passion XXX
+http://newiptvworld.no-ip.org:8300/live/iptv/star/198.ts
+#EXTINF:-1,Uk: VH1
+http://newiptvworld.no-ip.org:8300/live/iptv/star/199.ts
+#EXTINF:-1,? Penthouse
+http://newiptvworld.no-ip.org:8300/live/iptv/star/200.ts
+#EXTINF:-1,Uk: MTV Classic
+http://newiptvworld.no-ip.org:8300/live/iptv/star/300.ts
+#EXTINF:-1,SP: Odisseia
+http://newiptvworld.no-ip.org:8300/live/iptv/star/489.ts
+#EXTINF:-1,? DUSK
+http://newiptvworld.no-ip.org:8300/live/iptv/star/309.ts
+#EXTINF:-1,US: NBA TV
+http://newiptvworld.no-ip.org:8300/live/iptv/star/405.ts
+#EXTINF:-1,DE: Universal Channel HD
+http://newiptvworld.no-ip.org:8300/live/iptv/star/208.ts
+#EXTINF:-1,DE: National Geographic
+http://newiptvworld.no-ip.org:8300/live/iptv/star/209.ts
+#EXTINF:-1,DE: Disney Junior
+http://newiptvworld.no-ip.org:8300/live/iptv/star/207.ts
+#EXTINF:-1,De: Sat 1 Emotions
+http://newiptvworld.no-ip.org:8300/live/iptv/star/248.ts
+#EXTINF:-1,DE: TNT Comedy HD
+http://newiptvworld.no-ip.org:8300/live/iptv/star/211.ts
+#EXTINF:-1,? Miami TV
+http://newiptvworld.no-ip.org:8300/live/iptv/star/291.ts
+#EXTINF:-1,De: MGM HD
+http://newiptvworld.no-ip.org:8300/live/iptv/star/244.ts
+#EXTINF:-1,Cy: RIK Satellite
+http://newiptvworld.no-ip.org:8300/live/iptv/star/486.ts
+#EXTINF:-1,GR: Mega
+http://newiptvworld.no-ip.org:8300/live/iptv/star/185.ts
+#EXTINF:-1,TR: TivibuSport 2
+http://newiptvworld.no-ip.org:8300/live/iptv/star/409.ts
+#EXTINF:-1,De: KINO WELT.TV HD
+http://newiptvworld.no-ip.org:8300/live/iptv/star/242.ts
+#EXTINF:-1,TR: Kanal D
+http://newiptvworld.no-ip.org:8300/live/iptv/star/325.ts
+#EXTINF:-1,TR: KANAL 24 HD
+http://newiptvworld.no-ip.org:8300/live/iptv/star/324.ts
+#EXTINF:-1,De: Kabel 1 HD
+http://newiptvworld.no-ip.org:8300/live/iptv/star/250.ts
+#EXTINF:-1,? Hustler HD
+http://newiptvworld.no-ip.org:8300/live/iptv/star/201.ts
+#EXTINF:-1,DE: Fox HD
+http://newiptvworld.no-ip.org:8300/live/iptv/star/239.ts
+#EXTINF:-1,GR: E TV
+http://newiptvworld.no-ip.org:8300/live/iptv/star/179.ts
+#EXTINF:-1,GR: ERT 3
+http://newiptvworld.no-ip.org:8300/live/iptv/star/186.ts
+#EXTINF:-1,GR: ERT 2
+http://newiptvworld.no-ip.org:8300/live/iptv/star/187.ts
+#EXTINF:-1,GR: ERT 1
+http://newiptvworld.no-ip.org:8300/live/iptv/star/188.ts
+#EXTINF:-1,? Dorcel
+http://newiptvworld.no-ip.org:8300/live/iptv/star/293.ts
+#EXTINF:-1,DE: KIKA
+http://newiptvworld.no-ip.org:8300/live/iptv/star/265.ts
+#EXTINF:-1,DE: Discovery HD
+http://newiptvworld.no-ip.org:8300/live/iptv/star/266.ts
+#EXTINF:-1,DE: Das Erste HD
+http://newiptvworld.no-ip.org:8300/live/iptv/star/255.ts
+#EXTINF:-1,TR: CNN Turk
+http://newiptvworld.no-ip.org:8300/live/iptv/star/332.ts
+#EXTINF:-1,? Cento X Cento TV
+http://newiptvworld.no-ip.org:8300/live/iptv/star/195.ts
+#EXTINF:-1,? But Go
+http://newiptvworld.no-ip.org:8300/live/iptv/star/304.ts
+#EXTINF:-1,TR: BRT HD
+http://newiptvworld.no-ip.org:8300/live/iptv/star/317.ts
+#EXTINF:-1,? Brazzers Europe
+http://newiptvworld.no-ip.org:8300/live/iptv/star/296.ts
+#EXTINF:-1,? VISIT-X TV
+http://newiptvworld.no-ip.org:8300/live/iptv/star/295.ts
+#EXTINF:-1,? Babestation EXtra
+http://newiptvworld.no-ip.org:8300/live/iptv/star/289.ts
+#EXTINF:-1,? Babestation
+http://newiptvworld.no-ip.org:8300/live/iptv/star/290.ts
+#EXTINF:-1,DE: AXN HD
+http://newiptvworld.no-ip.org:8300/live/iptv/star/240.ts
+#EXTINF:-1,TR: ATV HD
+http://newiptvworld.no-ip.org:8300/live/iptv/star/319.ts
+#EXTINF:-1,GR: Ant1
+http://newiptvworld.no-ip.org:8300/live/iptv/star/184.ts
+#EXTINF:-1,DE: Sat1 Gold
+http://newiptvworld.no-ip.org:8300/live/iptv/star/210.ts
+#EXTINF:-1,GR: Alpha
+http://newiptvworld.no-ip.org:8300/live/iptv/star/183.ts
+#EXTINF:-1,? nuart
+http://newiptvworld.no-ip.org:8300/live/iptv/star/311.ts
+#EXTINF:-1,DE: A&E
+http://newiptvworld.no-ip.org:8300/live/iptv/star/238.ts
+#EXTINF:-1,? 24h XXX
+http://newiptvworld.no-ip.org:8300/live/iptv/star/310.ts
+#EXTINF:-1,DE: 13th Street HD
+http://newiptvworld.no-ip.org:8300/live/iptv/star/241.ts
+#EXTINF:-1,GR: ZOUGL@
+http://newiptvworld.no-ip.org:8300/live/iptv/star/447.ts
+#EXTINF:-1,GR: VOULI
+http://newiptvworld.no-ip.org:8300/live/iptv/star/438.ts
+#EXTINF:-1,GR: Channel 9
+http://newiptvworld.no-ip.org:8300/live/iptv/star/430.ts
+#EXTINF:-1,GR: TILESPORT
+http://newiptvworld.no-ip.org:8300/live/iptv/star/428.ts
+#EXTINF:-1,GR: Thraki TV
+http://newiptvworld.no-ip.org:8300/live/iptv/star/435.ts
+#EXTINF:-1,GR: SBC
+http://newiptvworld.no-ip.org:8300/live/iptv/star/429.ts
+#EXTINF:-1,GR: SAMIAKI
+http://newiptvworld.no-ip.org:8300/live/iptv/star/441.ts
+#EXTINF:-1,GR: OMEGA
+http://newiptvworld.no-ip.org:8300/live/iptv/star/433.ts
+#EXTINF:-1,GR: NEA
+http://newiptvworld.no-ip.org:8300/live/iptv/star/426.ts
+#EXTINF:-1,GR: MESSINIA TV
+http://newiptvworld.no-ip.org:8300/live/iptv/star/425.ts
+#EXTINF:-1,GR: New TV
+http://newiptvworld.no-ip.org:8300/live/iptv/star/439.ts
+#EXTINF:-1,GR: Makedonia
+http://newiptvworld.no-ip.org:8300/live/iptv/star/457.ts
+#EXTINF:-1,Cy: MAD
+http://newiptvworld.no-ip.org:8300/live/iptv/star/454.ts
+#EXTINF:-1,GR: KRITI TV
+http://newiptvworld.no-ip.org:8300/live/iptv/star/424.ts
+#EXTINF:-1,GR: KONTRA TV
+http://newiptvworld.no-ip.org:8300/live/iptv/star/450.ts
+#EXTINF:-1,GR: JAYZEE
+http://newiptvworld.no-ip.org:8300/live/iptv/star/449.ts
+#EXTINF:-1,GR: EXTRA
+http://newiptvworld.no-ip.org:8300/live/iptv/star/444.ts
+#EXTINF:-1,GR: TV1 Siros
+http://newiptvworld.no-ip.org:8300/live/iptv/star/434.ts
+#EXTINF:-1,GR: Ellinikosfm TV
+http://newiptvworld.no-ip.org:8300/live/iptv/star/422.ts
+#EXTINF:-1,GR: BLUE SKY
+http://newiptvworld.no-ip.org:8300/live/iptv/star/445.ts
+#EXTINF:-1,GR: Axeloos TV
+http://newiptvworld.no-ip.org:8300/live/iptv/star/423.ts
+#EXTINF:-1,GR: Astra
+http://newiptvworld.no-ip.org:8300/live/iptv/star/427.ts
+#EXTINF:-1,GR: Art
+http://newiptvworld.no-ip.org:8300/live/iptv/star/178.ts
+#EXTINF:-1,GR: AIGAIO TV
+http://newiptvworld.no-ip.org:8300/live/iptv/star/442.ts
+#EXTINF:-1,GR: ACTION 24
+http://newiptvworld.no-ip.org:8300/live/iptv/star/458.ts
+#EXTINF:-1,GR: 4E
+http://newiptvworld.no-ip.org:8300/live/iptv/star/437.ts
+#EXTINF:-1,UK: True Movies 2
+http://newiptvworld.no-ip.org:8300/live/iptv/star/157.ts
+#EXTINF:-1,UK: True Movies
+http://newiptvworld.no-ip.org:8300/live/iptv/star/158.ts
+#EXTINF:-1,Uk: E Entertainment
+http://newiptvworld.no-ip.org:8300/live/iptv/star/115.ts
+#EXTINF:-1,Uk: TLC
+http://newiptvworld.no-ip.org:8300/live/iptv/star/116.ts
+#EXTINF:-1,UK: TCM
+http://newiptvworld.no-ip.org:8300/live/iptv/star/142.ts
+#EXTINF:-1,IT: Sport italia
+http://newiptvworld.no-ip.org:8300/live/iptv/star/89.ts
+#EXTINF:-1,IT: La 7 HD
+http://newiptvworld.no-ip.org:8300/live/iptv/star/68.ts
+#EXTINF:-1,UK: Sky Thriller
+http://newiptvworld.no-ip.org:8300/live/iptv/star/144.ts
+#EXTINF:-1,IT: Rai Sport 1
+http://newiptvworld.no-ip.org:8300/live/iptv/star/94.ts
+#EXTINF:-1,Uk:Sky Sports News
+http://newiptvworld.no-ip.org:8300/live/iptv/star/168.ts
+#EXTINF:-1,Uk:Sky Sports F1
+http://newiptvworld.no-ip.org:8300/live/iptv/star/169.ts
+#EXTINF:-1,Uk:Sky Sports 5
+http://newiptvworld.no-ip.org:8300/live/iptv/star/170.ts
+#EXTINF:-1,Uk:Sky Sports 4
+http://newiptvworld.no-ip.org:8300/live/iptv/star/171.ts
+#EXTINF:-1,Uk:Sky Sports 3
+http://newiptvworld.no-ip.org:8300/live/iptv/star/172.ts
+#EXTINF:-1,Uk:Sky Sports 2
+http://newiptvworld.no-ip.org:8300/live/iptv/star/173.ts
+#EXTINF:-1,Uk:Sky Sports 1
+http://newiptvworld.no-ip.org:8300/live/iptv/star/174.ts
+#EXTINF:-1,IT: Nat Geo People HD
+http://newiptvworld.no-ip.org:8300/live/iptv/star/102.ts
+#EXTINF:-1,IT: Premium Sport 2
+http://newiptvworld.no-ip.org:8300/live/iptv/star/103.ts
+#EXTINF:-1,IT: Mediaset Italia 2
+http://newiptvworld.no-ip.org:8300/live/iptv/star/101.ts
+#EXTINF:-1,IT: Premium Sport 1
+http://newiptvworld.no-ip.org:8300/live/iptv/star/104.ts
+#EXTINF:-1,IT: Sky Calcio HD
+http://newiptvworld.no-ip.org:8300/live/iptv/star/100.ts
+#EXTINF:-1,IT: Rai Yoyo
+http://newiptvworld.no-ip.org:8300/live/iptv/star/99.ts
+#EXTINF:-1,IT: D Focus
+http://newiptvworld.no-ip.org:8300/live/iptv/star/52.ts
+#EXTINF:-1,Uk: Sky Disney
+http://newiptvworld.no-ip.org:8300/live/iptv/star/114.ts
+#EXTINF:-1,IT: Sky Cinema Passion HD
+http://newiptvworld.no-ip.org:8300/live/iptv/star/70.ts
+#EXTINF:-1,IT: Sky Cinema Cult
+http://newiptvworld.no-ip.org:8300/live/iptv/star/75.ts
+#EXTINF:-1,IT: Primafila 2
+http://newiptvworld.no-ip.org:8300/live/iptv/star/76.ts
+#EXTINF:-1,IT: Primafila 5
+http://newiptvworld.no-ip.org:8300/live/iptv/star/74.ts
+#EXTINF:-1,IT: Rai Premium
+http://newiptvworld.no-ip.org:8300/live/iptv/star/73.ts
+#EXTINF:-1,IT: Super Tennis HD
+http://newiptvworld.no-ip.org:8300/live/iptv/star/69.ts
+#EXTINF:-1,IT: PremiumStudio Universal
+http://newiptvworld.no-ip.org:8300/live/iptv/star/71.ts
+#EXTINF:-1,IT: Sky Cinema Max
+http://newiptvworld.no-ip.org:8300/live/iptv/star/78.ts
+#EXTINF:-1,IT: Sky Cinema  24 HD
+http://newiptvworld.no-ip.org:8300/live/iptv/star/77.ts
+#EXTINF:-1,IT: FOX Krime HD
+http://newiptvworld.no-ip.org:8300/live/iptv/star/91.ts
+#EXTINF:-1,IT: Sky Sports 1
+http://newiptvworld.no-ip.org:8300/live/iptv/star/92.ts
+#EXTINF:-1,IT: Rai Sport 2
+http://newiptvworld.no-ip.org:8300/live/iptv/star/93.ts
+#EXTINF:-1,IT: Sky Cinema 1 HD
+http://newiptvworld.no-ip.org:8300/live/iptv/star/72.ts
+#EXTINF:-1,UK: Sky Atlantic
+http://newiptvworld.no-ip.org:8300/live/iptv/star/146.ts
+#EXTINF:-1,IT: Mediaset Extra
+http://newiptvworld.no-ip.org:8300/live/iptv/star/67.ts
+#EXTINF:-1,IT: Rai 5
+http://newiptvworld.no-ip.org:8300/live/iptv/star/59.ts
+#EXTINF:-1,IT:Rai 4
+http://newiptvworld.no-ip.org:8300/live/iptv/star/60.ts
+#EXTINF:-1,IT: Rai 3 HD
+http://newiptvworld.no-ip.org:8300/live/iptv/star/61.ts
+#EXTINF:-1,IT: Rai 2 HD
+http://newiptvworld.no-ip.org:8300/live/iptv/star/62.ts
+#EXTINF:-1,IT: Rai 1 HD
+http://newiptvworld.no-ip.org:8300/live/iptv/star/63.ts
+#EXTINF:-1,PT: Sport TV5
+http://newiptvworld.no-ip.org:8300/live/iptv/star/10.ts
+#EXTINF:-1,PT: Sport TV4
+http://newiptvworld.no-ip.org:8300/live/iptv/star/11.ts
+#EXTINF:-1,PT: Sport TV3
+http://newiptvworld.no-ip.org:8300/live/iptv/star/12.ts
+#EXTINF:-1,PT: Sport TV2
+http://newiptvworld.no-ip.org:8300/live/iptv/star/13.ts
+#EXTINF:-1,PT: Sport TV1
+http://newiptvworld.no-ip.org:8300/live/iptv/star/14.ts
+#EXTINF:-1,IT: Premium Cartonito
+http://newiptvworld.no-ip.org:8300/live/iptv/star/84.ts
+#EXTINF:-1,IT: Marcopolo
+http://newiptvworld.no-ip.org:8300/live/iptv/star/95.ts
+#EXTINF:-1,IT: Premium Joy
+http://newiptvworld.no-ip.org:8300/live/iptv/star/81.ts
+#EXTINF:-1,IT: Premium Energy
+http://newiptvworld.no-ip.org:8300/live/iptv/star/83.ts
+#EXTINF:-1,IT: Premium Emotion
+http://newiptvworld.no-ip.org:8300/live/iptv/star/82.ts
+#EXTINF:-1,IT: Premium Cinema +24
+http://newiptvworld.no-ip.org:8300/live/iptv/star/80.ts
+#EXTINF:-1,IT: Boing
+http://newiptvworld.no-ip.org:8300/live/iptv/star/86.ts
+#EXTINF:-1,IT: Premium Comedy
+http://newiptvworld.no-ip.org:8300/live/iptv/star/79.ts
+#EXTINF:-1,IT: Premium Cinema 2
+http://newiptvworld.no-ip.org:8300/live/iptv/star/87.ts
+#EXTINF:-1,IT: Premium Cinema 1
+http://newiptvworld.no-ip.org:8300/live/iptv/star/88.ts
+#EXTINF:-1,IT: Caccia e Pesca
+http://newiptvworld.no-ip.org:8300/live/iptv/star/96.ts
+#EXTINF:-1,IT: Primafila 3
+http://newiptvworld.no-ip.org:8300/live/iptv/star/97.ts
+#EXTINF:-1,IT: Primafila 1
+http://newiptvworld.no-ip.org:8300/live/iptv/star/98.ts
+#EXTINF:-1,IT: Premium Action HD
+http://newiptvworld.no-ip.org:8300/live/iptv/star/85.ts
+#EXTINF:-1,Uk:Premier Sports
+http://newiptvworld.no-ip.org:8300/live/iptv/star/167.ts
+#EXTINF:-1,Uk: Nicktoons
+http://newiptvworld.no-ip.org:8300/live/iptv/star/110.ts
+#EXTINF:-1,Uk: Nickelodeon Jr
+http://newiptvworld.no-ip.org:8300/live/iptv/star/111.ts
+#EXTINF:-1,Uk: Nickelodeon
+http://newiptvworld.no-ip.org:8300/live/iptv/star/112.ts
+#EXTINF:-1,Uk: National Geography Wild
+http://newiptvworld.no-ip.org:8300/live/iptv/star/124.ts
+#EXTINF:-1,IT: National Geo HD
+http://newiptvworld.no-ip.org:8300/live/iptv/star/57.ts
+#EXTINF:-1,IT: Nat Geo Wild HD
+http://newiptvworld.no-ip.org:8300/live/iptv/star/56.ts
+#EXTINF:-1,IT: Fox Sports
+http://newiptvworld.no-ip.org:8300/live/iptv/star/55.ts
+#EXTINF:-1,Uk: Nat Geo Channel
+http://newiptvworld.no-ip.org:8300/live/iptv/star/125.ts
+#EXTINF:-1,UK: Movies 4 Men
+http://newiptvworld.no-ip.org:8300/live/iptv/star/138.ts
+#EXTINF:-1,UK: Motor TV
+http://newiptvworld.no-ip.org:8300/live/iptv/star/160.ts
+#EXTINF:-1,TR: LIGTV 4
+http://newiptvworld.no-ip.org:8300/live/iptv/star/6.ts
+#EXTINF:-1,TR: LIGTV 3
+http://newiptvworld.no-ip.org:8300/live/iptv/star/7.ts
+#EXTINF:-1,TR: LIGTV 2
+http://newiptvworld.no-ip.org:8300/live/iptv/star/8.ts
+#EXTINF:-1,TR: LIGTV 1
+http://newiptvworld.no-ip.org:8300/live/iptv/star/9.ts
+#EXTINF:-1,IT: Italia 1 HD
+http://newiptvworld.no-ip.org:8300/live/iptv/star/66.ts
+#EXTINF:-1,Uk: Discovery Investion
+http://newiptvworld.no-ip.org:8300/live/iptv/star/119.ts
+#EXTINF:-1,IT: Rai News 24
+http://newiptvworld.no-ip.org:8300/live/iptv/star/51.ts
+#EXTINF:-1,Uk: History Channel
+http://newiptvworld.no-ip.org:8300/live/iptv/star/123.ts
+#EXTINF:-1,IT: Sky Sports 2
+http://newiptvworld.no-ip.org:8300/live/iptv/star/50.ts
+#EXTINF:-1,IT: Fox Life
+http://newiptvworld.no-ip.org:8300/live/iptv/star/90.ts
+#EXTINF:-1,UK: Fox
+http://newiptvworld.no-ip.org:8300/live/iptv/star/136.ts
+#EXTINF:-1,Uk: Food Network
+http://newiptvworld.no-ip.org:8300/live/iptv/star/117.ts
+#EXTINF:-1,UK: Film 4 UK
+http://newiptvworld.no-ip.org:8300/live/iptv/star/137.ts
+#EXTINF:-1,UK: Eurosport 2
+http://newiptvworld.no-ip.org:8300/live/iptv/star/161.ts
+#EXTINF:-1,UK: Eurosport 1
+http://newiptvworld.no-ip.org:8300/live/iptv/star/162.ts
+#EXTINF:-1,UK: ESPN
+http://newiptvworld.no-ip.org:8300/live/iptv/star/163.ts
+#EXTINF:-1,Uk: Disney XD
+http://newiptvworld.no-ip.org:8300/live/iptv/star/106.ts
+#EXTINF:-1,Uk: DISNEY JUNIOR
+http://newiptvworld.no-ip.org:8300/live/iptv/star/107.ts
+#EXTINF:-1,Uk: Disney Channel
+http://newiptvworld.no-ip.org:8300/live/iptv/star/108.ts
+#EXTINF:-1,Uk: Discovery Turbo
+http://newiptvworld.no-ip.org:8300/live/iptv/star/118.ts
+#EXTINF:-1,Uk: Discovery Science
+http://newiptvworld.no-ip.org:8300/live/iptv/star/121.ts
+#EXTINF:-1,Uk: Discovery History
+http://newiptvworld.no-ip.org:8300/live/iptv/star/120.ts
+#EXTINF:-1,IT: Discovery HD
+http://newiptvworld.no-ip.org:8300/live/iptv/star/54.ts
+#EXTINF:-1,IT:  Rai Movie
+http://newiptvworld.no-ip.org:8300/live/iptv/star/53.ts
+#EXTINF:-1,Uk: Discovery Channel
+http://newiptvworld.no-ip.org:8300/live/iptv/star/122.ts
+#EXTINF:-1,UK: Sky Arts 1
+http://newiptvworld.no-ip.org:8300/live/iptv/star/149.ts
+#EXTINF:-1,UK: Comedy Central
+http://newiptvworld.no-ip.org:8300/live/iptv/star/150.ts
+#EXTINF:-1,UK: Setanta Sports
+http://newiptvworld.no-ip.org:8300/live/iptv/star/159.ts
+#EXTINF:-1,Uk: Cartoon Network
+http://newiptvworld.no-ip.org:8300/live/iptv/star/109.ts
+#EXTINF:-1,Uk:BT Sport Europe
+http://newiptvworld.no-ip.org:8300/live/iptv/star/164.ts
+#EXTINF:-1,UK:BT Sport 2
+http://newiptvworld.no-ip.org:8300/live/iptv/star/165.ts
+#EXTINF:-1,Uk:BT Sport 1
+http://newiptvworld.no-ip.org:8300/live/iptv/star/166.ts
+#EXTINF:-1,Uk: Boomerang
+http://newiptvworld.no-ip.org:8300/live/iptv/star/113.ts
+#EXTINF:-1,MAL: Astro Sports 4
+http://newiptvworld.no-ip.org:8300/live/iptv/star/33.ts
+#EXTINF:-1,MAL: Astro Sports 3
+http://newiptvworld.no-ip.org:8300/live/iptv/star/34.ts
+#EXTINF:-1,MAL: Astro Sports 2
+http://newiptvworld.no-ip.org:8300/live/iptv/star/35.ts
+#EXTINF:-1,MAL: Astro Sports 1
+http://newiptvworld.no-ip.org:8300/live/iptv/star/36.ts
+#EXTINF:-1,IT: Sky Tg24
+http://newiptvworld.no-ip.org:8300/live/iptv/star/58.ts
+#EXTINF:-1,Uk: Animal Planet
+http://newiptvworld.no-ip.org:8300/live/iptv/star/126.ts
