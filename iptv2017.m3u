@@ -122,3 +122,8 @@ News/Top-News.isml/Top-News-audio_track=64000-video=640000.m3u8
 http://ott.digitalb.tv/TVSH/TVSH.isml/TVSH-
 
 audio_track=64000-video=640000.m3u8
+
+#EXTINF:-1,Lena
+http://ott.digitalb.tv/ReportTV/ReportTV.isml/ReportTV-
+
+audio_track=64000-video=640000.m3u8
